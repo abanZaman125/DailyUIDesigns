@@ -6,3 +6,7 @@ Daily UI is a series of Design Challenges and sent out everyday.
 <br>
 <br>
 <strong>This is where I will be uploading my Daily UI completions everyday.<strong>
+<br>
+### Notes
+The website link for Challenge #003 Landing Page is this: [click here!](https://redesigncbms.my.canva.site/).
+
